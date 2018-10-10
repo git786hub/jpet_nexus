@@ -56,9 +56,9 @@
     </site>
 	
 	<repository>
-         <id>nexus-snapshot</id>
-         <name>jpetstore-snapshot</name>
-         <url>http://18.222.47.91:8081//repository/jpetstore-snapshot/</url>
+         <id>nexus</id>
+         <name>jpetstore-release</name>
+         <url>http://localhost:8081/repository/jpet-releases/</url>
     </repository>
 	
   </distributionManagement>
