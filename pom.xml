@@ -58,7 +58,7 @@
 	<repository>
          <id>nexus</id>
          <name>jpetstore-release</name>
-         <url>http://localhost:8081/repository/jpet-releases/</url>
+         <url>http://localhost:8081/repository/jpet-releases</url>
     </repository>
 	
   </distributionManagement>
