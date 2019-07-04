@@ -186,7 +186,7 @@
 	  <groupId>dev</groupId>
                             <artifactId>dev1</artifactId>
 							
-      <repositoryId>$jpetstore-release</repositoryId>
+      <repositoryId>jpetstore-release</repositoryId>
                             <url>http://3.16.143.30:8081/repository/jpetstore-release/</url>
      
    </configuration>
@@ -291,7 +291,7 @@
 	  <groupId>dev</groupId>
                             <artifactId>dev1</artifactId>
 							
-      <repositoryId>$jpetstore-release</repositoryId>
+      <repositoryId>jpetstore-release</repositoryId>
                             <url>http://3.16.143.30:8081/repository/jpetstore-release/</url>
      
    </configuration>
@@ -466,7 +466,7 @@
 	  <groupId>dev</groupId>
                             <artifactId>dev1</artifactId>
 							
-      <repositoryId>$jpetstore-release</repositoryId>
+      <repositoryId>jpetstore-release</repositoryId>
                             <url>http://3.16.143.30:8081/repository/jpetstore-release/</url>
      
    </configuration>
