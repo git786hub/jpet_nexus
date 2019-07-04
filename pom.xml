@@ -411,8 +411,8 @@
       </execution>
    </executions>
    <configuration>
-      <serverId>nexus</serverId>
-      <nexusUrl>http://http://3.16.143.30:8081/</nexusUrl>
+      <serverId>nexus-releases</serverId>
+      <nexusUrl>http://3.16.143.30:8081/</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
